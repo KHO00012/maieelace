@@ -1,0 +1,62 @@
+/* .createproduct-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.createproduct-box {
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.createproduct-box .MuiTextField-root {
+  margin-bottom: 16px;
+}
+
+.createproduct-box .MuiFormControl-root {
+  margin-bottom: 16px;
+}
+
+.checkbox-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.MuiCheckbox-root {
+  color: #33376f;
+}
+
+.MuiCheckbox-root.Mui-checked {
+  color: #33376f;
+}
+
+.checkbox-image img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.product-form-modal .MuiButton-root {
+  margin-right: 10px;
+}
+.checkbox-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+*/
+
+.product-form-modal {
+  max-width: 30rem;
+  height: 30rem;
+  margin-top: 40px;
+}
